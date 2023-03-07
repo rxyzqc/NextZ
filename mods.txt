@@ -12,3 +12,5 @@ https://mediafilez.forgecdn.net/files/3346/467/cfm-7.0.0pre22-1.16.3.jar
 https://mediafilez.forgecdn.net/files/3346/602/morecfm-1.3.1-1.16.3.jar
 https://mediafilez.forgecdn.net/files/4318/700/%5B1.16.5%5D+SecurityCraft+v1.9.5.jar
 https://mediafilez.forgecdn.net/files/3103/940/vehicle-mod-0.45.2-1.16.3.jar
+https://mediafilez.forgecdn.net/files/3541/116/Atlas-Lib-1.16.5-1.1.3c.jar
+https://mediafilez.forgecdn.net/files/4202/942/The-Hordes-1.16.5-1.1.5c.jar
